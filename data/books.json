@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "title": "100 Haiku",
+      "published": 2020,
+      "words": 6200,
+      "pages": 48,
+      "format": "PDF",
+      "file": "pdf/100-haiku.pdf",
+      "blurb": "A compact collection of haiku that carries the hush of yearning, the brightness of small joys, and the tenderness of fleeting moments."
+    },
+    {
+      "title": "Beyond 24",
+      "published": 2021,
+      "words": 15500,
+      "pages": 92,
+      "format": "PDF",
+      "file": "pdf/beyond-24.pdf",
+      "blurb": "This book looks beyond the surface of routine life and asks what remains when the clock stops being the measure of your meaning."
+    },
+    {
+      "title": "I 4 You",
+      "published": 2022,
+      "words": 9800,
+      "pages": 64,
+      "format": "PDF",
+      "file": "pdf/i-4-you.pdf",
+      "blurb": "A tender and emotionally raw work about affection, relationship, and the ways love changes the language of a human heart."
+    },
+    {
+      "title": "I Fell in Love with a Geek",
+      "published": 2019,
+      "words": 21900,
+      "pages": 126,
+      "format": "PDF",
+      "file": "pdf/i-fell-in-love-with-a-geek.pdf",
+      "blurb": "A story about falling for the person who is both deeply ordinary and strangely unforgettable, where intelligence, awkwardness, and tenderness collide."
+    },
+    {
+      "title": "I Fell in Love with an Asshole",
+      "published": 2020,
+      "words": 20200,
+      "pages": 118,
+      "format": "PDF",
+      "file": "pdf/i-fell-in-love-with-an-asshole.pdf",
+      "blurb": "A brutally honest account of desire, attachment, and the confusion that comes when emotion meets disappointment and self-deception."
+    },
+    {
+      "title": "Poem Shop",
+      "published": 2023,
+      "words": 14200,
+      "pages": 88,
+      "format": "PDF",
+      "file": "pdf/poem-shop.pdf",
+      "blurb": "A poetic catalogue of memory, longing, observation, and the strange beauty of everyday life turned into language."
+    },
+    {
+      "title": "Run: The Secret Destination",
+      "published": 2024,
+      "words": 18400,
+      "pages": 110,
+      "format": "PDF",
+      "file": "pdf/run-the-secret-destination.pdf",
+      "blurb": "A reflective journey of motion, self-discovery, and the hidden destination that emerges when the body keeps moving and the soul starts listening."
+    },
+    {
+      "title": "The Void",
+      "published": 2025,
+      "words": 16800,
+      "pages": 102,
+      "format": "PDF",
+      "file": "pdf/the-void.pdf",
+      "blurb": "An intimate meditation on absence, emptiness, and the quiet courage it takes to sit with what cannot be filled by words alone."
+    }
+  ]
+}
