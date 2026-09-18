@@ -47,7 +47,42 @@
     </header>
 
     <main class="container">
-      <section class="stats" aria-label="Book statistics">
+      <section class="author-profile" aria-labelledby="author-profile-heading">
+        <div class="author-image-wrap">
+          <img
+            src="prakash-pic.jpg"
+            alt="Portrait of the author"
+          />
+        </div>
+        <div class="author-copy">
+          <p class="section-kicker">Author Profile</p>
+          <h2 id="author-profile-heading">Prakash</h2>
+          <p>
+            Prakash is a writer, poet, and observer of everyday life. Through his work,
+            he explores memory, longing, love, and the quiet beauty hidden in ordinary
+            moments. His books reflect a simple belief: that language can make the invisible
+            feel intimate and give lasting form to the emotions that shape us.
+          </p>
+        </div>
+      </section>
+
+      <section class="feature-section" aria-labelledby="read-web-heading">
+        <div class="section-title-row">
+          <p class="section-kicker">Section 01</p>
+          <h2 id="read-web-heading">Read books on Web</h2>
+        </div>
+        <div class="coming-soon-block">
+          <span>Coming soon</span>
+        </div>
+      </section>
+
+      <section class="feature-section feature-section-downloads" aria-labelledby="downloads-heading">
+        <div class="section-title-row">
+          <p class="section-kicker">Section 02</p>
+          <h2 id="downloads-heading">Ebooks to Download</h2>
+        </div>
+
+        <section class="stats" aria-label="Book statistics">
         <div class="stat-card">
           <span class="label">Books</span>
           <strong id="book-count">0</strong>
@@ -62,8 +97,33 @@
         </div>
       </section>
 
-      <section class="books-section">
-        <div id="book-list" class="book-grid" aria-live="polite"></div>
+          <div class="stat-card">
+            <span class="label">Books</span>
+            <strong id="book-count">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="label">Total words</span>
+            <strong id="total-words">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="label">Latest year</span>
+            <strong id="latest-year">—</strong>
+          </div>
+        </section>
+
+        <section class="books-section">
+          <div id="book-list" class="book-grid" aria-live="polite"></div>
+        </section>
+      </section>
+
+      <section class="feature-section feature-section-ashamed" aria-labelledby="ashamed-heading">
+        <div class="section-title-row">
+          <p class="section-kicker">Section 03</p>
+          <h2 id="ashamed-heading">Books I am ashamed of</h2>
+        </div>
+        <div class="coming-soon-block">
+          <span>Coming soon</span>
+        </div>
       </section>
     </main>
 
