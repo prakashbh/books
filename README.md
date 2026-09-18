@@ -1,4 +1,4 @@
-# books
+# Books Library
 
 This folder contains the catalog page for the author’s published books and the downloaded PDF files.
 
